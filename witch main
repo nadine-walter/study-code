@@ -1,0 +1,672 @@
+[33mcommit 67e214507bbbdf80b4a843daa9b326610c3852d9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mbusiness-logic[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32muser-interface[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 320fa88 4484e48
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Wed Jan 21 17:00:38 2026 +0100
+
+    Merge pull request #22 from christian-braunagel/codingC-updates
+    
+    update lab1 for lab pcs
+
+[33mcommit 4484e48ee3a5fb2087652d7e99955858eafd577e[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Wed Jan 21 17:01:35 2026 +0100
+
+    update lab1 for lab pcs
+
+[33mcommit a129fdb6f19dcdc126705e9284e7078595b525a1[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Wed Jan 21 11:14:22 2026 +0100
+
+    add section II
+
+[33mcommit 320fa88677d3775eac2fde34caabdeae08007509[m
+Merge: 841bab0 a129fdb
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Wed Jan 21 11:13:39 2026 +0100
+
+    Merge pull request #21 from christian-braunagel/codingC-updates
+    
+    Coding c updates
+
+[33mcommit 35a83089e7a61f708d0d2af682679c6321acdcb8[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Wed Jan 21 11:08:27 2026 +0100
+
+    adapt lab6 markdown
+
+[33mcommit e8d51c2559457d49d60aaacede3bd774e10e8060[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Wed Jan 21 10:51:41 2026 +0100
+
+    adapt vscode config
+
+[33mcommit 5e9a306d6dc423115d299cc461c2242a4c937b23[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Wed Jan 21 10:51:18 2026 +0100
+
+    optimize and correct lab solution
+
+[33mcommit e5975bceb1149ae99f322a701372d6f0261a3020[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Wed Jan 21 10:50:46 2026 +0100
+
+    create code for generating test files
+
+[33mcommit f59b0291cafc2d4d15c7047ddf273a1fa249be22[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Tue Jan 20 13:09:36 2026 +0100
+
+    adapt vscode config
+
+[33mcommit 9f28d7f2c23885ae5a5d79388c4ca1ceeffdf130[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Tue Jan 20 13:08:34 2026 +0100
+
+    update task description
+
+[33mcommit cfd1516c0a4576a7b10d1a35c01e0aed16d19016[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Mon Jan 19 20:55:29 2026 +0100
+
+    add sensor files
+
+[33mcommit 841bab0e0ffae3a26d30370bf9c610032c102cbd[m
+Merge: ddd5c5a cfd1516
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Mon Jan 19 20:54:51 2026 +0100
+
+    Merge pull request #19 from christian-braunagel/codingC-updates
+    
+    add sensor files
+
+[33mcommit ddd5c5ac6b51439d7fe111c8b884f439c4564909[m
+Merge: 0705921 05c7296
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Sun Jan 18 22:42:47 2026 +0100
+
+    Merge pull request #18 from christian-braunagel/codingC-updates
+    
+    create lab 10 description
+
+[33mcommit 05c72963fa90b9e8d3ba8cd2c4bd2dbb107b705c[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Sun Jan 18 22:42:14 2026 +0100
+
+    create lab 10 description
+
+[33mcommit 2e3c559700f8dabda0e19274674e209cde76d354[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Sat Jan 17 12:55:54 2026 +0100
+
+    fix url of image
+
+[33mcommit 070592170552c89a642bda8d6a9d793af8a8bbb0[m
+Merge: ae33e23 2e3c559
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Sat Jan 17 12:55:09 2026 +0100
+
+    Merge pull request #17 from christian-braunagel/codingC-updates
+    
+    fix url of image
+
+[33mcommit ae33e23cb6514531ee7d4c24a0981ae446cc6d98[m
+Merge: 5f42d5a a3a2c1b
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Sat Jan 17 12:51:33 2026 +0100
+
+    Merge pull request #16 from christian-braunagel/codingC-updates
+    
+    Coding c updates
+
+[33mcommit a3a2c1b8f3fd1463096f96df1a19bcbe226e3012[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Sat Jan 17 12:51:00 2026 +0100
+
+    create alternating coloring
+
+[33mcommit f0f128ca7432a3bbbcd17505e0e7de6905f28bd0[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Sat Jan 17 12:50:37 2026 +0100
+
+    add image of program output
+
+[33mcommit 050e7ddf45209b4bbc63f6bc16c2eed40a4e2593[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Sat Jan 17 12:50:18 2026 +0100
+
+    add section III to markdown
+
+[33mcommit 5f42d5a82878c34f85370bb6899f00ef2acf1e96[m
+Merge: ce64154 4da6110
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Tue Jan 13 21:53:52 2026 +0100
+
+    Merge pull request #14 from christian-braunagel/patches
+    
+    Patches
+
+[33mcommit 4da6110b4a624516fa499a34beeaa920bab10c30[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Tue Jan 13 21:54:30 2026 +0100
+
+    add vscode config
+
+[33mcommit ddef9d66d18c87d5349b9aef9cbcf366e0773b4a[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Tue Jan 13 21:54:01 2026 +0100
+
+    add solution to new complex lab2
+
+[33mcommit c7dbfec11917a9822cb64414f1326abd66528d6d[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Sun Jan 11 08:31:20 2026 +0100
+
+    update second image path to absolute form
+
+[33mcommit ce64154568926328da7565d8283d01e6bd46250d[m
+Merge: 257a2a3 c7dbfec
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Sun Jan 11 08:30:54 2026 +0100
+
+    Merge pull request #13 from christian-braunagel/patches
+    
+    Patches
+
+[33mcommit ca778ef7f53673714127c1fefc2885b11da0ee90[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Sun Jan 11 08:28:29 2026 +0100
+
+    change to absolute path
+
+[33mcommit 257a2a3df7ebd91b9534b9020afb834fcf7d337d[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Fri Jan 9 10:11:47 2026 +0100
+
+    delete test file
+
+[33mcommit b4b6cd20889e6ae4e67da5b501150aca9bfedcc4[m
+Merge: 0b3d8f0 6dcf6c3
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Fri Jan 9 10:08:46 2026 +0100
+
+    Merge pull request #12 from christian-braunagel/test_rules
+    
+    create test
+
+[33mcommit 6dcf6c32d089283c176581b7722b0524512f9fbb[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Fri Jan 9 10:02:53 2026 +0100
+
+    create test
+
+[33mcommit 0b3d8f0ade253cc70aed15bf5e34e33129eba415[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Fri Jan 9 10:01:29 2026 +0100
+
+    remove test file
+
+[33mcommit ecd0d7d884b88afea19b914df3a5fc517dac1f8c[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Fri Jan 9 09:59:21 2026 +0100
+
+    create test file
+
+[33mcommit 7a3b87638c7e71326f6d2c35ace58d7bcef06444[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Fri Jan 9 09:58:32 2026 +0100
+
+    remove test files
+
+[33mcommit 4c5608dd1d9234d9378cdf0b3e48d6f32c24cfdd[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Fri Jan 9 09:56:32 2026 +0100
+
+    test of ruleset works
+
+[33mcommit ee3154611b1327a0657f7eeb77921977d69896fb[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Fri Jan 9 09:47:32 2026 +0100
+
+    test of ruleset works
+
+[33mcommit 55f32cf243a69a1ff9f6bab83bb46c79edceb44e[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Fri Jan 9 09:46:03 2026 +0100
+
+    create CODEOWNER file
+
+[33mcommit d8c5568f22d776eab6a13662e502843ee0bac512[m
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Mon Jan 5 13:51:27 2026 +0000
+
+    adapt lab8
+
+[33mcommit 5ce426410532e1f10b1edc131a72a1565ec62475[m
+Merge: bedb319 65dba48
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Mon Jan 5 14:45:44 2026 +0100
+
+    Merge pull request #11 from christian-braunagel/unit-test
+    
+    Unit test
+
+[33mcommit 65dba48952d8293679df6aca3b6077cd5340ae37[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Mon Jan 5 14:45:54 2026 +0100
+
+    add unit testing tasks
+
+[33mcommit cbbbbf8e6ed868070a108e49656be2bf95c30276[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Mon Jan 5 13:29:26 2026 +0100
+
+    add section 9 to lab1
+
+[33mcommit bedb319d2b697173c50ac2a6cf43bb1e51c77162[m
+Merge: 1807a49 f71a1e8
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Sat Jan 3 18:10:44 2026 +0100
+
+    Merge pull request #10 from christian-braunagel/vb-labs
+    
+    Vb labs
+
+[33mcommit f71a1e85def0e24573f3a9440dc9a971f46ebe69[m
+Merge: ca35ac7 95d97bc
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Sat Jan 3 14:38:09 2026 +0100
+
+    Merge branch 'vb-labs' of github.com:christian-braunagel/study-code into vb-labs
+
+[33mcommit ca35ac7eb707fb3359aa603ddfd5a091d6fecbed[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Sat Jan 3 14:37:51 2026 +0100
+
+    adapt lab3
+
+[33mcommit 95d97bc414fee815d6b0f889774f94bc2c7b195c[m
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Fri Jan 2 21:26:55 2026 +0000
+
+    create lab3 exercise
+
+[33mcommit 84e89778779a15ec133b6fadd13dbeb426bd74f3[m
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Fri Jan 2 21:11:09 2026 +0000
+
+    create lab2 solution
+
+[33mcommit e473ce10361b1466283765af65f585787396f035[m
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Fri Jan 2 21:10:54 2026 +0000
+
+    adapt gitignore to vb
+
+[33mcommit af800ff020575e0d6a12e1f73b0756b8d30d9b15[m
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Fri Jan 2 20:40:15 2026 +0000
+
+    update lab1 for vb commands
+
+[33mcommit 15535e42c020d8327b3c9528fbeef0ce4a49c7a4[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Fri Jan 2 21:33:05 2026 +0100
+
+    add lab 2 for vb
+
+[33mcommit 1807a499cb080e73c0def2326e2f13e7601d8fef[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Fri Jan 2 21:04:47 2026 +0100
+
+    adapt lab1 to vb
+
+[33mcommit 28ec2e465896af9a163aae5753e1c780e168ccda[m
+Merge: d5a586f 3ea38fb
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Fri Jan 2 16:27:02 2026 +0100
+
+    Merge pull request #9 from christian-braunagel/vb-course
+    
+    create lab1 vb
+
+[33mcommit 3ea38fb41f6084add5592cbbea28f5cca062d6ac[m
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Fri Jan 2 12:41:49 2026 +0000
+
+    create lab1 vb
+
+[33mcommit d5a586fdc66572f1961b7ceacafc82329166504b[m
+Merge: 7b9e5d6 0478906
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Fri Jan 2 13:18:05 2026 +0100
+
+    Merge pull request #8 from christian-braunagel/vb-codespace
+    
+    use default image
+
+[33mcommit 047890659d2eca242110376693963097f732175f[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Fri Jan 2 13:18:03 2026 +0100
+
+    use default image
+
+[33mcommit b827a5e56096bc6b56c08b5c3f9dbaf774defa44[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Fri Jan 2 13:09:16 2026 +0100
+
+    integrate vb codespace
+
+[33mcommit 7b9e5d61bbf82319799a37f158f3225f9d66fc33[m
+Merge: f0b3021 b827a5e
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Fri Jan 2 13:08:56 2026 +0100
+
+    Merge pull request #7 from christian-braunagel/vb-codespace
+    
+    integrate vb codespace
+
+[33mcommit f0b3021115771edb0fed0e84a222ecce1ba61bcf[m
+Merge: e48a4e7 67f7e7a
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Thu Jan 1 22:27:39 2026 +0100
+
+    Merge pull request #6 from christian-braunagel/lab-creation
+    
+    Lab creation
+
+[33mcommit 67f7e7aeb96fe899499fa01d75a67d675dd8820e[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Thu Jan 1 22:15:52 2026 +0100
+
+    configure vscode
+
+[33mcommit 77bc0cec044c5fce83ff61cac72eddf44be29062[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Thu Jan 1 22:15:36 2026 +0100
+
+    create cmake config
+
+[33mcommit 5fbcbb95aaed36561cd82866ef78dc4801421b99[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Thu Jan 1 22:15:14 2026 +0100
+
+    create new lab
+
+[33mcommit e48a4e7b10193f976b8e7860bcd3e9362f23edca[m
+Merge: e2c4d69 457df3c
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Thu Jan 1 21:32:32 2026 +0100
+
+    Merge pull request #5 from christian-braunagel/lab-creation
+    
+    Lab creation
+
+[33mcommit 457df3cb09613fe457d34ea09d635eafe2138a24[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Thu Jan 1 21:31:39 2026 +0100
+
+    configure cmake
+
+[33mcommit d972c74ebd19ca7fe8759cd575b7f36ea1dcbd02[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Thu Jan 1 21:31:30 2026 +0100
+
+    create lab 8
+
+[33mcommit 2e40cafdf928c087385925596741f1b4da60728c[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Thu Jan 1 21:25:44 2026 +0100
+
+    add build folder
+
+[33mcommit 3cc6adeddddbcbaa2bd9258d5b4b1642480d48fd[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Thu Jan 1 17:39:24 2026 +0100
+
+    fix bug in lab7
+
+[33mcommit c7168932d138ef360bbf93fcb136b80cfb783bc8[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Thu Jan 1 17:33:04 2026 +0100
+
+    vscode configs for lab8
+
+[33mcommit 8300c35f65abd2e36899c45c2af74efd14d2b612[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Thu Jan 1 16:36:26 2026 +0100
+
+    configure vscode
+
+[33mcommit 98100a6baf7087061026596587c570d895305178[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Thu Jan 1 16:36:15 2026 +0100
+
+    move playlist manager lab to lab7
+
+[33mcommit 7300435436e4169c6876cd0f6355d6f7d92d1479[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Thu Jan 1 16:35:55 2026 +0100
+
+    create new lab6
+
+[33mcommit a03f90ba0d93322b342ada859a9863fba18a8acc[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Thu Jan 1 15:56:03 2026 +0100
+
+    add comments in lab5
+
+[33mcommit 66c9fd40c2ecd0aa0f04a68e68c5067c1d56119a[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Thu Jan 1 15:55:41 2026 +0100
+
+    add additional task to lab4
+
+[33mcommit ae95a58e0dd11d786d7d9df91610876a2991b56b[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Thu Jan 1 15:55:06 2026 +0100
+
+    create lab 6
+
+[33mcommit a242008db409a95a10708435054be71344c0104c[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Thu Jan 1 15:54:38 2026 +0100
+
+    create vscode config
+
+[33mcommit e2c4d691e568300f84f08a49ffda39a71eb77d1f[m
+Merge: dab354b 6bdc6f0
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Wed Dec 31 14:08:14 2025 +0100
+
+    Merge pull request #4 from christian-braunagel/lab_4
+    
+    Lab 4
+
+[33mcommit 6bdc6f0156d86cfb020920a38ceda61454193ae9[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Wed Dec 31 14:08:06 2025 +0100
+
+    configure vscode
+
+[33mcommit e1811bb64c25b98cd4c06ba5126d104295fbba2e[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Wed Dec 31 14:07:53 2025 +0100
+
+    create lab5
+
+[33mcommit e4a20f24d0c6234365a18d16455ad716e895529c[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Wed Dec 31 11:24:59 2025 +0100
+
+    add vscode configs
+
+[33mcommit 0d2d5194aafc61e35e4c79b7618f4919049cee8e[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Wed Dec 31 11:24:44 2025 +0100
+
+    add lab4 solutions
+
+[33mcommit f378f226e089756ecf348e56115648bc1c0277fa[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Wed Dec 31 11:24:29 2025 +0100
+
+    create lab 4 exercise
+
+[33mcommit 1880fb0968cb76c1dcc5eefd80ee44dcf0f68eb0[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Wed Dec 31 11:24:15 2025 +0100
+
+    improve md file
+
+[33mcommit 2afb59d636fa9e934b612c5db3ff1d1d493e499e[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Wed Dec 31 09:37:43 2025 +0100
+
+    adapt documentation for c files according to convention
+
+[33mcommit 78d35763436c222914edfb65d0d230a2a106db28[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Wed Dec 31 09:37:20 2025 +0100
+
+    add document for coding conventions in c
+
+[33mcommit 3fd0ee571d2bee403aea015da30a0bfb9bddec0d[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Wed Dec 31 09:24:08 2025 +0100
+
+    update lab1 last section
+
+[33mcommit dab354bf2aa2b37f60c470c011569008988802cf[m
+Merge: fc4f94e a157cc0
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Tue Dec 30 22:28:38 2025 +0100
+
+    Merge pull request #3 from christian-braunagel/challenge_2_in_C
+    
+    Challenge 2 in c
+
+[33mcommit a157cc0b77a204532109d5931794d38d49454428[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Tue Dec 30 22:26:05 2025 +0100
+
+    create lab 3 exercise
+
+[33mcommit 56d650a312a98428c63af04fdb4eb1e4a7411a43[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Tue Dec 30 22:25:42 2025 +0100
+
+    create two solution for lab2
+
+[33mcommit 0ad92ff9ae286c173dd3873108447c907bb38c3f[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Tue Dec 30 22:22:53 2025 +0100
+
+    move calculator to lab 3
+
+[33mcommit a21be6b7a042c879b503b20fb8383fe168334a74[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Tue Dec 30 22:22:15 2025 +0100
+
+    configure vscode automatically
+
+[33mcommit 9173f3acd8c57dfe4ff239f1a794161b905fcb08[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Tue Dec 30 22:21:01 2025 +0100
+
+    change lab2 to chessboard challenge
+
+[33mcommit fc4f94eec52435cd08613f35ecbdb0086b34a81e[m
+Merge: 3afd0a2 0c67cd7
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Tue Dec 30 21:50:51 2025 +0100
+
+    Merge pull request #2 from christian-braunagel/challenge_2_in_C
+    
+    add optional to exercise
+
+[33mcommit 0c67cd758d85b570f9aa692f942e1baaf293b789[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Tue Dec 30 21:50:21 2025 +0100
+
+    add optional to exercise
+
+[33mcommit 3afd0a20e8d516877c03457aa4df74c74b28b54b[m
+Merge: 3eb2699 1e6d64e
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Tue Dec 30 20:52:23 2025 +0100
+
+    Merge pull request #1 from christian-braunagel/challenge_2_in_C
+    
+    Challenge 2 in c
+
+[33mcommit 1e6d64e8187c18fd78fc221e0d983c5e7d97ec76[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Tue Dec 30 17:42:22 2025 +0100
+
+    code solution for lab2
+
+[33mcommit 2a42f6fed8c291d98443c64712a326219c90923a[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Tue Dec 30 17:42:07 2025 +0100
+
+    create c_cpp_properties
+
+[33mcommit 5f6e65da75808044d63b255dc1c7567b8a1648a7[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Tue Dec 30 17:41:37 2025 +0100
+
+    create exercise sheet for lab2
+
+[33mcommit 5e53546c65e9137faf46a693b5349e393657a8f3[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Tue Dec 30 17:41:02 2025 +0100
+
+    setup tasks config for Lab2
+
+[33mcommit 52747584a42ed5edb43526963ce74c7a8361842f[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Tue Dec 30 17:36:42 2025 +0100
+
+    create a gitignore file
+
+[33mcommit 69a13d5dec2a91ee2c2c16170faa1582ce256034[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Tue Dec 30 17:36:28 2025 +0100
+
+    rename Challange to Lab
+
+[33mcommit 3eb2699edcaa13fe0676be11f7c2977da8033f37[m
+Author: Braunagel <braunagel@dhbw-ravensburg.de>
+Date:   Mon Dec 29 22:37:11 2025 +0100
+
+    create first lab
+
+[33mcommit a21dc2ec60929439d9a28ebd3a5997bcfe60e43e[m
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Mon Dec 29 15:29:37 2025 +0000
+
+    create build task for gcc
+
+[33mcommit 4cfa80a59e7dc657a4634a7b2bccc987d3ffd341[m
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Mon Dec 29 15:08:36 2025 +0000
+
+    add git lfs to devcontainer
+
+[33mcommit cbf5e0dacce6c9b62369bcd511d5552d08ab94cd[m
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Mon Dec 29 15:02:45 2025 +0000
+
+    create c devcontainer
+
+[33mcommit 73fb853486d812a392855778bf9bb65c21ba1d36[m
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Mon Dec 29 14:19:57 2025 +0000
+
+    create first empty challenge
+
+[33mcommit 156a447487979cc599a1a752efecfb26ff3deb40[m
+Author: Christian Braunagel <100046621+christian-braunagel@users.noreply.github.com>
+Date:   Mon Dec 29 15:10:29 2025 +0100
+
+    Initial commit
